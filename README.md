@@ -11,8 +11,6 @@ Tools & Technologies Used:
     Other tools:
         -> Bootstrap -> Frontend
 
-
-Screenshots
 Login Page:
 ![Alt](Screenshots/login_page.png)
 
