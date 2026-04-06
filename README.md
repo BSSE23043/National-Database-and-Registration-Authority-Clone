@@ -26,7 +26,6 @@ Logs And Records:
 ![Alt](Screenshots/logs.png)
 Marriage Registration:
 ![Alt](Screenshots/marrige_reg.png)
-
 User End:
 ![Alt](Screenshots/user_dashboard.png)
 Application Status:
